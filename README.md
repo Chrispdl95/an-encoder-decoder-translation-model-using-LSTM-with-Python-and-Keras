@@ -1,6 +1,6 @@
 # Live Speech Translation with Seq2Seq Model
 
-Welcome to Live Speech Translation, a project that uses a sequence-to-sequence (seq2seq) model to provide real-time translation between English and Spanish. This project is designed to make language translation more accessible, efficient, and dynamic.
+In this  project i implement a sequence-to-sequence (seq2seq) model to create a translation machine.
 
 ## Overview
 
